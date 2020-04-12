@@ -1,0 +1,334 @@
+------------------------------------
+1 arcsec =  83.65 [pc] @ n2146
+1 arcsec =  37.45 [pc] @ n3628
+83.6515984848 37.448680717
+------------------------------------
+------------------------------------
+------------------------------------
+NGC 3628 core, vmekal+pow, grp, test76
+------------------------------------
+1 [as] =  37.33 [pc]
+norm =  5.07e-06
+radius =  0.67 [kpc] x 0.67 [kpc]
+theta =  0.30 [arcmin] x 0.30 [arcmin]
+Distance =  2.37e+25 [cm] 7.70 [mpc]
+redshift (z) =  0.0028
+EI = int(n_e n_H dV)=  3.61e+60 [cm-3]
+volume (V) =  3.73e+64 [cm3]
+kT =  0.46 [keV]
+filling factor (f) =  0.1 -- 0.01
+plasma number density (n_e) =  9.844e-03 ( 3.113e-02 -- 9.844e-02 ) [cm-3]
+plasma mass density (rho_e) =  1.644e-26 ( 5.199e-26 -- 1.644e-25 ) [g cm-3]
+plasma pressure (p_ion) =  1.451e-11 ( 4.588e-11 -- 1.451e-10 ) [dyne cm-2]
+molecular pressure (p_mol) = ( 1.380e-13 -- 1.380e-11 ) [dyne cm-2]
+plasma mass (M) =  3.080e+05 ( 9.740e+04 -- 3.080e+04 ) [Msun]
+plasma thermal energy (E) =  8.1152e+53 ( 2.5663e+53 -- 8.1152e+52 ) [erg]
+plasma total energy (E) =  2.7051e+54 ( 8.5542e+53 -- 2.7051e+53 ) [erg]
+------------------------------------
+NGC 3628 core, vmekal+pow, grp_2, test76
+------------------------------------
+1 [as] =  37.33 [pc]
+norm =  4.70e-06
+radius =  0.67 [kpc] x 0.67 [kpc]
+theta =  0.30 [arcmin] x 0.30 [arcmin]
+Distance =  2.37e+25 [cm] 7.70 [mpc]
+redshift (z) =  0.0028
+EI = int(n_e n_H dV)=  3.35e+60 [cm-3]
+volume (V) =  3.73e+64 [cm3]
+kT =  0.48 [keV]
+filling factor (f) =  0.1 -- 0.01
+plasma number density (n_e) =  9.477e-03 ( 2.997e-02 -- 9.477e-02 ) [cm-3]
+plasma mass density (rho_e) =  1.583e-26 ( 5.005e-26 -- 1.583e-25 ) [g cm-3]
+plasma pressure (p_ion) =  1.458e-11 ( 4.610e-11 -- 1.458e-10 ) [dyne cm-2]
+molecular pressure (p_mol) = ( 1.380e-13 -- 1.380e-11 ) [dyne cm-2]
+plasma mass (M) =  2.965e+05 ( 9.378e+04 -- 2.965e+04 ) [Msun]
+plasma thermal energy (E) =  8.1527e+53 ( 2.5781e+53 -- 8.1527e+52 ) [erg]
+plasma total energy (E) =  2.7176e+54 ( 8.5937e+53 -- 2.7176e+53 ) [erg]
+------------------------------------
+NGC 3628 core, mekal+pow, grp, test76
+------------------------------------
+1 [as] =  37.33 [pc]
+norm =  5.25e-06
+radius =  0.67 [kpc] x 0.67 [kpc]
+theta =  0.30 [arcmin] x 0.30 [arcmin]
+Distance =  2.37e+25 [cm] 7.70 [mpc]
+redshift (z) =  0.0028
+EI = int(n_e n_H dV)=  3.74e+60 [cm-3]
+volume (V) =  3.73e+64 [cm3]
+kT =  0.44 [keV]
+filling factor (f) =  0.1 -- 0.01
+plasma number density (n_e) =  1.002e-02 ( 3.168e-02 -- 1.002e-01 ) [cm-3]
+plasma mass density (rho_e) =  1.673e-26 ( 5.291e-26 -- 1.673e-25 ) [g cm-3]
+plasma pressure (p_ion) =  1.412e-11 ( 4.467e-11 -- 1.412e-10 ) [dyne cm-2]
+molecular pressure (p_mol) = ( 1.380e-13 -- 1.380e-11 ) [dyne cm-2]
+plasma mass (M) =  3.135e+05 ( 9.913e+04 -- 3.135e+04 ) [Msun]
+plasma thermal energy (E) =  7.8997e+53 ( 2.4981e+53 -- 7.8997e+52 ) [erg]
+plasma total energy (E) =  2.6332e+54 ( 8.3270e+53 -- 2.6332e+53 ) [erg]
+------------------------------------
+NGC 3628 core, mekal+pow, grp_2, test76
+------------------------------------
+1 [as] =  37.33 [pc]
+norm =  5.97e-06
+radius =  0.67 [kpc] x 0.67 [kpc]
+theta =  0.30 [arcmin] x 0.30 [arcmin]
+Distance =  2.37e+25 [cm] 7.70 [mpc]
+redshift (z) =  0.0028
+EI = int(n_e n_H dV)=  4.25e+60 [cm-3]
+volume (V) =  3.73e+64 [cm3]
+kT =  0.43 [keV]
+filling factor (f) =  0.1 -- 0.01
+plasma number density (n_e) =  1.068e-02 ( 3.378e-02 -- 1.068e-01 ) [cm-3]
+plasma mass density (rho_e) =  1.784e-26 ( 5.641e-26 -- 1.784e-25 ) [g cm-3]
+plasma pressure (p_ion) =  1.472e-11 ( 4.654e-11 -- 1.472e-10 ) [dyne cm-2]
+molecular pressure (p_mol) = ( 1.380e-13 -- 1.380e-11 ) [dyne cm-2]
+plasma mass (M) =  3.342e+05 ( 1.057e+05 -- 3.342e+04 ) [Msun]
+plasma thermal energy (E) =  8.2317e+53 ( 2.6031e+53 -- 8.2317e+52 ) [erg]
+plasma total energy (E) =  2.7439e+54 ( 8.6769e+53 -- 2.7439e+53 ) [erg]
+------------------------------------
+NGC 3628 core, raym+pow, grp, test76
+------------------------------------
+1 [as] =  37.33 [pc]
+norm =  3.54e-06
+radius =  0.67 [kpc] x 0.67 [kpc]
+theta =  0.30 [arcmin] x 0.30 [arcmin]
+Distance =  2.37e+25 [cm] 7.70 [mpc]
+redshift (z) =  0.0028
+EI = int(n_e n_H dV)=  2.52e+60 [cm-3]
+volume (V) =  3.73e+64 [cm3]
+kT =  0.45 [keV]
+filling factor (f) =  0.1 -- 0.01
+plasma number density (n_e) =  8.225e-03 ( 2.601e-02 -- 8.225e-02 ) [cm-3]
+plasma mass density (rho_e) =  1.374e-26 ( 4.343e-26 -- 1.374e-25 ) [g cm-3]
+plasma pressure (p_ion) =  1.186e-11 ( 3.750e-11 -- 1.186e-10 ) [dyne cm-2]
+molecular pressure (p_mol) = ( 1.380e-13 -- 1.380e-11 ) [dyne cm-2]
+plasma mass (M) =  2.573e+05 ( 8.138e+04 -- 2.573e+04 ) [Msun]
+plasma thermal energy (E) =  6.6328e+53 ( 2.0975e+53 -- 6.6328e+52 ) [erg]
+plasma total energy (E) =  2.2109e+54 ( 6.9916e+53 -- 2.2109e+53 ) [erg]
+------------------------------------
+NGC 3628 halo, vmekal+pow, test76
+------------------------------------
+1 [as] =  37.33 [pc]
+norm =  6.28e-05
+radius =  6.72 [kpc] x 6.72 [kpc]
+theta =  3.00 [arcmin] x 3.00 [arcmin]
+Distance =  2.37e+25 [cm] 7.70 [mpc]
+redshift (z) =  0.0028
+EI = int(n_e n_H dV)=  4.48e+61 [cm-3]
+volume (V) =  3.73e+67 [cm3]
+kT =  0.372 [keV]
+filling factor (f) =  0.1 -- 0.01
+plasma number density (n_e) =  1.096e-03 ( 3.466e-03 -- 1.096e-02 ) [cm-3]
+plasma mass density (rho_e) =  1.830e-27 ( 5.787e-27 -- 1.830e-26 ) [g cm-3]
+plasma pressure (p_ion) =  1.306e-12 ( 4.131e-12 -- 1.306e-11 ) [dyne cm-2]
+molecular pressure (p_mol) = ( 1.380e-13 -- 1.380e-11 ) [dyne cm-2]
+plasma mass (M) =  3.429e+07 ( 1.084e+07 -- 3.429e+06 ) [Msun]
+plasma thermal energy (E) =  7.3061e+55 ( 2.3104e+55 -- 7.3061e+54 ) [erg]
+plasma total energy (E) =  2.4354e+56 ( 7.7013e+55 -- 2.4354e+55 ) [erg]
+------------------------------------
+NGC 3628 halo, vmekal+pow, test93
+------------------------------------
+1 [as] =  37.33 [pc]
+norm =  7.16e-05
+radius =  6.72 [kpc] x 6.72 [kpc]
+theta =  3.00 [arcmin] x 3.00 [arcmin]
+Distance =  2.37e+25 [cm] 7.70 [mpc]
+redshift (z) =  0.0028
+EI = int(n_e n_H dV)=  5.10e+61 [cm-3]
+volume (V) =  3.73e+67 [cm3]
+kT =  0.33 [keV]
+filling factor (f) =  0.1 -- 0.01
+plasma number density (n_e) =  1.170e-03 ( 3.700e-03 -- 1.170e-02 ) [cm-3]
+plasma mass density (rho_e) =  1.954e-27 ( 6.178e-27 -- 1.954e-26 ) [g cm-3]
+plasma pressure (p_ion) =  1.237e-12 ( 3.912e-12 -- 1.237e-11 ) [dyne cm-2]
+molecular pressure (p_mol) = ( 1.380e-13 -- 1.380e-11 ) [dyne cm-2]
+plasma mass (M) =  3.661e+07 ( 1.158e+07 -- 3.661e+06 ) [Msun]
+plasma thermal energy (E) =  6.9189e+55 ( 2.1880e+55 -- 6.9189e+54 ) [erg]
+plasma total energy (E) =  2.3063e+56 ( 7.2932e+55 -- 2.3063e+55 ) [erg]
+------------------------------------
+test 93
+------------------------------------
+------------------------------------
+NGC 3628 halo, vmekal+pow, test93
+------------------------------------
+1 [as] =  37.33 [pc]
+norm =  7.16e-05
+radius =  6.72 [kpc] x 6.72 [kpc]
+theta =  3.00 [arcmin] x 3.00 [arcmin]
+Distance =  2.37e+25 [cm] 7.70 [mpc]
+redshift (z) =  0.0028
+EI = int(n_e n_H dV)=  5.10e+61 [cm-3]
+volume (V) =  3.73e+67 [cm3]
+kT =  0.331452 [keV]
+filling factor (f) =  0.1 -- 0.01
+plasma number density (n_e) =  1.170e-03 ( 3.700e-03 -- 1.170e-02 ) [cm-3]
+plasma mass density (rho_e) =  1.954e-27 ( 6.178e-27 -- 1.954e-26 ) [g cm-3]
+plasma pressure (p_ion) =  1.243e-12 ( 3.929e-12 -- 1.243e-11 ) [dyne cm-2]
+molecular pressure (p_mol) = ( 1.380e-13 -- 1.380e-11 ) [dyne cm-2]
+plasma mass (M) =  3.661e+07 ( 1.158e+07 -- 3.661e+06 ) [Msun]
+plasma thermal energy (E) =  6.9494e+55 ( 2.1976e+55 -- 6.9494e+54 ) [erg]
+plasma total energy (E) =  2.3165e+56 ( 7.3253e+55 -- 2.3165e+55 ) [erg]
+------------------------------------
+NGC 3628 halo, vmekal+pow, test93
+------------------------------------
+1 [as] =  37.33 [pc]
+norm =  7.16e-05
+radius =  6.72 [kpc] x 6.72 [kpc]
+theta =  3.00 [arcmin] x 3.00 [arcmin]
+Distance =  2.37e+25 [cm] 7.70 [mpc]
+redshift (z) =  0.0028
+EI = int(n_e n_H dV)=  5.10e+61 [cm-3]
+volume (V) =  3.73e+67 [cm3]
+kT =  0.33 [keV]
+filling factor (f) =  0.1 -- 0.01
+plasma number density (n_e) =  1.170e-03 ( 3.700e-03 -- 1.170e-02 ) [cm-3]
+plasma mass density (rho_e) =  1.954e-27 ( 6.178e-27 -- 1.954e-26 ) [g cm-3]
+plasma pressure (p_ion) =  1.237e-12 ( 3.912e-12 -- 1.237e-11 ) [dyne cm-2]
+molecular pressure (p_mol) = ( 1.380e-13 -- 1.380e-11 ) [dyne cm-2]
+plasma mass (M) =  3.661e+07 ( 1.158e+07 -- 3.661e+06 ) [Msun]
+plasma thermal energy (E) =  6.9189e+55 ( 2.1880e+55 -- 6.9189e+54 ) [erg]
+plasma total energy (E) =  2.3063e+56 ( 7.2932e+55 -- 2.3063e+55 ) [erg]
+------------------------------------
+NGC 3628 core, vmekal+pow, grp, test93
+------------------------------------
+1 [as] =  37.33 [pc]
+norm =  3.34e-06
+radius =  0.67 [kpc] x 0.67 [kpc]
+theta =  0.30 [arcmin] x 0.30 [arcmin]
+Distance =  2.37e+25 [cm] 7.70 [mpc]
+redshift (z) =  0.0028
+EI = int(n_e n_H dV)=  2.38e+60 [cm-3]
+volume (V) =  3.73e+64 [cm3]
+kT =  0.486585 [keV]
+filling factor (f) =  0.1 -- 0.01
+plasma number density (n_e) =  7.988e-03 ( 2.526e-02 -- 7.988e-02 ) [cm-3]
+plasma mass density (rho_e) =  1.334e-26 ( 4.218e-26 -- 1.334e-25 ) [g cm-3]
+plasma pressure (p_ion) =  1.245e-11 ( 3.938e-11 -- 1.245e-10 ) [dyne cm-2]
+molecular pressure (p_mol) = ( 1.380e-13 -- 1.380e-11 ) [dyne cm-2]
+plasma mass (M) =  2.499e+05 ( 7.903e+04 -- 2.499e+04 ) [Msun]
+plasma thermal energy (E) =  6.9654e+53 ( 2.2026e+53 -- 6.9654e+52 ) [erg]
+plasma total energy (E) =  2.3218e+54 ( 7.3421e+53 -- 2.3218e+53 ) [erg]
+------------------------------------
+test 98
+------------------------------------
+------------------------------------
+NGC 3628 halo, vmekal+pow, grp, test98
+------------------------------------
+1 [as] =  37.33 [pc]
+norm =  7.17e-05
+radius =  6.72 [kpc] x 6.72 [kpc]
+theta =  3.00 [arcmin] x 3.00 [arcmin]
+Distance =  2.37e+25 [cm] 7.70 [mpc]
+redshift (z) =  0.0028
+EI = int(n_e n_H dV)=  5.11e+61 [cm-3]
+volume (V) =  3.73e+67 [cm3]
+kT =  0.33 [keV]
+filling factor (f) =  0.1 -- 0.01
+plasma number density (n_e) =  1.171e-03 ( 3.702e-03 -- 1.171e-02 ) [cm-3]
+plasma mass density (rho_e) =  1.955e-27 ( 6.182e-27 -- 1.955e-26 ) [g cm-3]
+plasma pressure (p_ion) =  1.238e-12 ( 3.914e-12 -- 1.238e-11 ) [dyne cm-2]
+molecular pressure (p_mol) = ( 1.380e-13 -- 1.380e-11 ) [dyne cm-2]
+plasma mass (M) =  3.663e+07 ( 1.158e+07 -- 3.663e+06 ) [Msun]
+plasma thermal energy (E) =  6.9226e+55 ( 2.1891e+55 -- 6.9226e+54 ) [erg]
+plasma total energy (E) =  2.3075e+56 ( 7.2971e+55 -- 2.3075e+55 ) [erg]
+------------------------------------
+NGC 3628 core, vraym+pow, grp, test98
+------------------------------------
+1 [as] =  37.33 [pc]
+norm =  3.50e-06
+radius =  0.56 [kpc] x 0.56 [kpc]
+theta =  0.25 [arcmin] x 0.25 [arcmin]
+Distance =  2.37e+25 [cm] 7.70 [mpc]
+redshift (z) =  0.0028
+EI = int(n_e n_H dV)=  2.49e+60 [cm-3]
+volume (V) =  2.16e+64 [cm3]
+kT =  0.5 [keV]
+filling factor (f) =  0.1 -- 0.01
+plasma number density (n_e) =  1.075e-02 ( 3.399e-02 -- 1.075e-01 ) [cm-3]
+plasma mass density (rho_e) =  1.795e-26 ( 5.676e-26 -- 1.795e-25 ) [g cm-3]
+plasma pressure (p_ion) =  1.722e-11 ( 5.446e-11 -- 1.722e-10 ) [dyne cm-2]
+molecular pressure (p_mol) = ( 1.380e-13 -- 1.380e-11 ) [dyne cm-2]
+plasma mass (M) =  1.946e+05 ( 6.155e+04 -- 1.946e+04 ) [Msun]
+plasma thermal energy (E) =  5.5739e+53 ( 1.7626e+53 -- 5.5739e+52 ) [erg]
+plasma total energy (E) =  1.8580e+54 ( 5.8754e+53 -- 1.8580e+53 ) [erg]
+------------------------------------
+------------------------------------
+NGC 2146, r=2arcmin
+------------------------------------
+1 [as] =  83.39 [pc]
+norm =  3.56e-04
+radius =  15.01 [kpc] x 15.01 [kpc]
+theta =  3.00 [arcmin] x 3.00 [arcmin]
+Distance =  5.30e+25 [cm] 17.20 [mpc]
+redshift (z) =  0.003
+EI = int(n_e n_H dV)=  1.27e+63 [cm-3]
+volume (V) =  4.16e+68 [cm3]
+kT =  0.577 [keV]
+filling factor (f) =  0.1 -- 0.01
+plasma number density (n_e) =  1.746e-03 ( 5.523e-03 -- 1.746e-02 ) [cm-3]
+plasma mass density (rho_e) =  2.917e-27 ( 9.223e-27 -- 2.917e-26 ) [g cm-3]
+plasma pressure (p_ion) =  3.229e-12 ( 1.021e-11 -- 3.229e-11 ) [dyne cm-2]
+molecular pressure (p_mol) = ( 1.380e-13 -- 1.380e-11 ) [dyne cm-2]
+plasma mass (M) =  6.091e+08 ( 1.926e+08 -- 6.091e+07 ) [Msun]
+plasma thermal energy (E) =  2.0128e+57 ( 6.3651e+56 -- 2.0128e+56 ) [erg]
+plasma total energy (E) =  6.7094e+57 ( 2.1217e+57 -- 6.7094e+56 ) [erg]
+------------------------------------
+NGC 2146, r=0.4arcmin
+------------------------------------
+1 [as] =  83.39 [pc]
+norm =  2.34e-04
+radius =  15.01 [kpc] x 15.01 [kpc]
+theta =  3.00 [arcmin] x 3.00 [arcmin]
+Distance =  5.30e+25 [cm] 17.20 [mpc]
+redshift (z) =  0.003
+EI = int(n_e n_H dV)=  8.32e+62 [cm-3]
+volume (V) =  4.16e+68 [cm3]
+kT =  0.6 [keV]
+filling factor (f) =  0.1 -- 0.01
+plasma number density (n_e) =  1.415e-03 ( 4.475e-03 -- 1.415e-02 ) [cm-3]
+plasma mass density (rho_e) =  2.363e-27 ( 7.474e-27 -- 2.363e-26 ) [g cm-3]
+plasma pressure (p_ion) =  2.721e-12 ( 8.605e-12 -- 2.721e-11 ) [dyne cm-2]
+molecular pressure (p_mol) = ( 1.380e-13 -- 1.380e-11 ) [dyne cm-2]
+plasma mass (M) =  4.936e+08 ( 1.561e+08 -- 4.936e+07 ) [Msun]
+plasma thermal energy (E) =  1.6962e+57 ( 5.3638e+56 -- 1.6962e+56 ) [erg]
+plasma total energy (E) =  5.6539e+57 ( 1.7879e+57 -- 5.6539e+56 ) [erg]
+------------------------------------
+EI(norm, d_mpc, r_maj_arcmin, r_min_arcmin, z, note, f1, f2, kT_kev)
+------------------------------------
+------------------------------------
+note =  NGC 2146, Inui 2005, r=1.8arcmin,V=4/3xpix6.3^3 kpc^3
+------------------------------------
+EI = int(n_e n_H dV)=  8.00e+62 [cm-3]
+volume (V) =  3.07e+67 [cm3]
+kT =  0.5 [keV]
+filling factor (f) =  0.1 -- 0.01
+plasma number density (n_e) =  5.102e-03 ( 1.614e-02 -- 5.102e-02 ) [cm-3]
+plasma mass density (rho_e) =  8.521e-27 ( 2.695e-26 -- 8.521e-26 ) [cm-3]
+plasma pressure (p) =  8.175e-12 ( 2.585e-11 -- 8.175e-11 ) [dyne cm-2]
+plasma mass (M) =  1.316e+08 ( 4.161e+07 -- 1.316e+07 ) [Msun]
+plasma thermal energy (E) =  3.768e+56 ( 1.192e+56 -- 3.768e+55 ) [erg]
+------------------------------------
+note =  NGC 2146, Inui 2005, r=0.3arcmin,V=4/3xpix1.0^3 kpc^3
+------------------------------------
+EI = int(n_e n_H dV)=  8.00e+62 [cm-3]
+volume (V) =  1.23e+65 [cm3]
+kT =  0.5 [keV]
+filling factor (f) =  0.1 -- 0.01
+plasma number density (n_e) =  8.068e-02 ( 2.551e-01 -- 8.068e-01 ) [cm-3]
+plasma mass density (rho_e) =  1.347e-25 ( 4.261e-25 -- 1.347e-24 ) [cm-3]
+plasma pressure (p) =  1.293e-10 ( 4.088e-10 -- 1.293e-09 ) [dyne cm-2]
+plasma mass (M) =  8.321e+06 ( 2.631e+06 -- 8.321e+05 ) [Msun]
+plasma thermal energy (E) =  2.383e+55 ( 7.535e+54 -- 2.383e+54 ) [erg]
+------------------------------------
+note =  NGC 3628, Dahlem 1996, V=14^2x40xpi kpc^3
+------------------------------------
+EI = int(n_e n_H dV)=  2.40e+62 [cm-3]
+volume (V) =  7.23e+68 [cm3]
+kT =  0.16 [keV]
+filling factor (f) =  0.1 -- 0.01
+plasma number density (n_e) =  5.763e-04 ( 1.822e-03 -- 5.763e-03 ) [cm-3]
+plasma mass density (rho_e) =  9.624e-28 ( 3.043e-27 -- 9.624e-27 ) [cm-3]
+plasma pressure (p) =  2.955e-13 ( 9.344e-13 -- 2.955e-12 ) [dyne cm-2]
+plasma mass (M) =  3.495e+08 ( 1.105e+08 -- 3.495e+07 ) [Msun]
+plasma thermal energy (E) =  3.203e+56 ( 1.013e+56 -- 3.203e+55 ) [erg]
+------------------------------------
+EI2(ei,V_cm3,f1,f2,kT_kev,note)

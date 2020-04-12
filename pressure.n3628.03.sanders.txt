@@ -1,0 +1,169 @@
+============
+NGC 3628
+============
+parameters
+------------
+inclination 1.55334303427 0.999847695156 0.0174524064373
+filling factor = 0.01
+n_xotf = 0.0317696099291 [cm^-3]
+n_xotf (Inui) = 0.051 [cm^-3]
+n_mol = 100.0 [cm^-3]
+rho_mol 1.7e-22 [g cm^-3]
+kT [ev] of xray outflow = 500.0 ev
+kT [erg] of xray outflow = 8e-10 erg
+V_xotf = 7.92622181548e+67
+V_xotf (Inui) = 3.07288737285e+67
+rho_xotf 5.30552485815e-26 [g/cm3]
+M_xotf= 4.20527668732e+40 M_xotf_Inui= 2.587e+40
+L_xotf = 1.3e+40 [erg/s]
+E_xotf = 1e+56 [erg]
+SN rate = 0.15 [yr^-1]
+9.24 231.0
+------------
+surface density, gas mass (CO intensity)
+------------
+4.7e-04 [g/cm2] 2 [Msun/pc2] (z = 2060.19 pc) 6.5e+07 [Msun] mbbl
+5.2e-05 [g/cm2] 0 [Msun/pc2] (z = 18529.39 pc) 1.5e+07 [Msun] motf
+1.8e-04 [g/cm2] 1 [Msun/pc2] (z = 5377.54 pc) 3.9e+07 [Msun] motf
+9.4e-05 [g/cm2] 0 [Msun/pc2] (z = 10272.03 pc) 1.1e+07 [Msun] motf
+1.7e-04 [g/cm2] 1 [Msun/pc2] (z = 5790.89 pc) 3.0e+07 [Msun] motf
+8.4e-05 [g/cm2] 0 [Msun/pc2] (z = 11522.73 pc) 1.2e+07 [Msun] motf
+9.8e-05 [g/cm2] 0 [Msun/pc2] (z = 9874.72 pc) 1.3e+07 [Msun] motf
+8.8e-05 [g/cm2] 0 [Msun/pc2] (z = 11007.75 pc) 1.2e+07 [Msun] motf
+1.0e-04 [g/cm2] 0 [Msun/pc2] (z = 9562.60 pc) 1.2e+07 [Msun] motf
+0.48165821176 0.00010076300759 8.16762272578e-24
+Chevalier 1985, rho=1.1e-25 [g cm-3]
+1.4e-03 [g/cm2] 7 [Msun/pc2] (z = 683.49 pc) 1.4e+09 [Msun] unkown
+1.7e-03 [g/cm2] 8 [Msun/pc2] (z = 566.75 pc) 1.4e+09 [Msun] 45as
+1.7e-03 [g/cm2] 8 [Msun/pc2] (z = 582.95 pc) 1.3e+09 [Msun] mdsk
+2.6e-03 [g/cm2] 12 [Msun/pc2] (z = 374.12 pc) 1.3e+09 [Msun] mdsk
+2.6e-03 [g/cm2] 13 [Msun/pc2] (z = 364.02 pc) 1.2e+09 [Msun] mdsk
+6.0e-03 [g/cm2] 29 [Msun/pc2] (z = 161.13 pc) 2.5e+08 [Msun] 0.3kpc
+4.4e-03 [g/cm2] 21 [Msun/pc2] (z = 218.12 pc) 4.5e+08 [Msun] 0.5kpc
+4.2e-03 [g/cm2] 20 [Msun/pc2] (z = 228.98 pc) 7.0e+08 [Msun] 0.8kpc
+4.6e-03 [g/cm2] 22 [Msun/pc2] (z = 210.42 pc) 6.5e+08 [Msun] 0.8kpc
+3.8e-03 [g/cm2] 18 [Msun/pc2] (z = 252.03 pc) 9.4e+08 [Msun] 1.2kpc
+sd_gas 0.00382312605949
+3.0e-03 [g/cm2] 15 [Msun/pc2] (z = 316.10 pc) 1.0e+09 [Msun] 1.2kpc
+2.7e-03 [g/cm2] 13 [Msun/pc2] (z = 359.26 pc) 1.2e+09 [Msun] 1.6kpc
+2.2e-03 [g/cm2] 10 [Msun/pc2] (z = 446.00 pc) 1.2e+09 [Msun] 1.6kpc
+2.0e-03 [g/cm2] 9 [Msun/pc2] (z = 486.67 pc) 1.3e+09 [Msun] 2.4kpc
+1.7e-03 [g/cm2] 8 [Msun/pc2] (z = 556.45 pc) 1.4e+09 [Msun] 2.4kpc
+1.8e-03 [g/cm2] 9 [Msun/pc2] (z = 524.18 pc) 1.3e+09 [Msun] 2.4kpc
+1.7e-03 [g/cm2] 8 [Msun/pc2] (z = 563.38 pc) 1.4e+09 [Msun] 2.8kpc
+1.7e-03 [g/cm2] 8 [Msun/pc2] (z = 563.38 pc) 1.4e+09 [Msun] tvbox;30as
+sd_xotf= 5.58887923027e-08
+------------
+surface density, dynamical mass (rotation curve)
+------------
+0.24 [g/cm2] 1127 [Msun/pc2] (z = 4.09 pc) 67.61 [km/s] 3.2e+08 [Msun] 0.3 kpc
+0.25 [g/cm2] 1179 [Msun/pc2] (z = 3.91 pc) 89.26 [km/s] 9.3e+08 [Msun] 0.5 kpc
+0.25 [g/cm2] 1208 [Msun/pc2] (z = 3.81 pc) 114.32 [km/s] 2.4e+09 [Msun] 0.8 kpc
+0.25 [g/cm2] 1216 [Msun/pc2] (z = 3.79 pc) 128.21 [km/s] 3.8e+09 [Msun] 1.0 kpc
+0.25 [g/cm2] 1219 [Msun/pc2] (z = 3.78 pc) 140.62 [km/s] 5.5e+09 [Msun] 1.2 kpc
+0.25 [g/cm2] 1219 [Msun/pc2] (z = 3.78 pc) 157.20 [km/s] 8.6e+09 [Msun] 1.5 kpc
+0.25 [g/cm2] 1204 [Msun/pc2] (z = 3.83 pc) 197.64 [km/s] 2.2e+10 [Msun] 2.4 kpc
+0.25 [g/cm2] 1195 [Msun/pc2] (z = 3.85 pc) 212.68 [km/s] 2.9e+10 [Msun] 2.8 kpc
+0.25 [g/cm2] 1190 [Msun/pc2] (z = 3.87 pc) 219.72 [km/s] 3.4e+10 [Msun] 3.0 kpc
+0.25 [g/cm2] 1186 [Msun/pc2] (z = 3.88 pc) 226.49 [km/s] 3.8e+10 [Msun] 3.2 kpc
+------------
+surface density, other galaxies (rotation curve)
+------------
+740 [Msun/pc2] (r < 1 kpc) 100.00 [km/s] 2.3e+09 [Msun] ?
+1368 [Msun/pc2] (r < 1 kpc) 136.00 [km/s] 4.3e+09 [Msun] ?
+370 [Msun/pc2] (r < 2 kpc) 100.00 [km/s] 4.6e+09 [Msun] ?
+92 [Msun/pc2] (r < 2 kpc) 50.00 [km/s] 1.2e+09 [Msun] ?
+986 [Msun/pc2] (r < 3 kpc) 200.00 [km/s] 2.8e+10 [Msun] ?
+740 [Msun/pc2] (r < 4 kpc) 200.00 [km/s] 3.7e+10 [Msun] ?
+152 [Msun/pc2] (r < 5 kpc) 100.00 [km/s] 1.2e+10 [Msun] M31
+190 [Msun/pc2] (r < 1 kpc) 50.00 [km/s] 6.0e+08 [Msun] M31
+223 [Msun/pc2] (r < 1 kpc) 50.00 [km/s] 7.0e+08 [Msun] M33
+92 [Msun/pc2] (r < 2 kpc) 50.00 [km/s] 1.2e+09 [Msun] ?
+177 [Msun/pc2] (r < 10 kpc) 150.00 [km/s] 5.6e+10 [Msun] N3198
+354 [Msun/pc2] (r < 5 kpc) 150.00 [km/s] 2.8e+10 [Msun] N3198
+394 [Msun/pc2] (r < 2 kpc) 100.00 [km/s] 4.9e+09 [Msun] N3198
+774 [Msun/pc2] (r < 15 kpc) 300.00 [km/s] 5.5e+11 [Msun] N4378
+277 [Msun/pc2] (r < 4 kpc) 120.00 [km/s] 1.4e+10 [Msun] N6503
+------------
+calculation results
+------------
++[ grav P = 2*pi*G*(surf_den_xry)*(surf_den_dynamical_mass) ]+
+ o mol. outflow grav P: 1.1e-11
+ o xray outflow grav P: 6.0e-15
+------------
++[ ram P = rho*(relative velocity)^2 ]+
+the total energy released by SNe and stellar winds (doesn't include the K.E)
+    thermalization efficiency (lower) 0.1
+    Lx increasing factor 1
+    total Energy = 1e+57 [erg]
+    v_xry =  2068.90 [km/s]
+    v_rel =  1978.90 [km/s]
+ o ram P:  2.1e-09 [dyne cm^-2]
+ o ram P:  1.5e+07 [K cm^-3]
+    thermalization efficiency 0.3
+    Lx increasing factor 1
+    total Energy = 3.3e+56 [erg]
+    v_xry =  1053.43 [km/s]
+    v_rel =  963.43 [km/s]
+ o ram P:  4.9e-10 [dyne cm^-2]
+ o ram P:  3.6e+06 [K cm^-3]
+    thermalization efficiency 0.5
+    Lx increasing factor 1
+    total Energy = 2e+56 [erg]
+    v_xry =  689.63 [km/s]
+    v_rel =  599.63 [km/s]
+ o ram P:  1.9e-10 [dyne cm^-2]
+ o ram P:  1.4e+06 [K cm^-3]
+    thermalization efficiency (upper) 1
+    Lx increasing factor 1
+    total Energy = 1e+56 [erg]
+    v_xry =  0.00 [km/s]
+    v_rel =  -90.00 [km/s]
+ o ram P:  4.3e-12 [dyne cm^-2]
+ o ram P:  3.1e+04 [K cm^-3]
+radiating the mechanical energy supplied by the starburst
+    starburst energy injection rate (thin-disk) 0.01
+    Lx increasing factor 10
+    total Energy = 1e+57 [erg]
+    v_xry =  2068.90 [km/s]
+    v_rel =  1978.90 [km/s]
+ o ram P:  2.1e-09 [dyne cm^-2]
+ o ram P:  1.5e+07 [K cm^-3]
+    starburst energy injection rate (thick-disk, lower) 0.05
+    Lx increasing factor 3
+    total Energy = 6.7e+56 [erg]
+    v_xry =  1641.65 [km/s]
+    v_rel =  1551.65 [km/s]
+ o ram P:  1.3e-09 [dyne cm^-2]
+ o ram P:  9.3e+06 [K cm^-3]
+    starburst energy injection rate (thick-disk, upper) 0.2
+    Lx increasing factor 3
+    total Energy = 1.7e+56 [erg]
+    v_xry =  563.08 [km/s]
+    v_rel =  473.08 [km/s]
+ o ram P:  1.2e-10 [dyne cm^-2]
+ o ram P:  8.6e+05 [K cm^-3]
+------------
++[ shock P = 10^-12*E_xry^(17/14)*n_mol^(-4/7)*SNrate/Vol ]+
+    data from 89GHz Continuum
+    starburst Volume =  6.2e+07 [pc^3]
+ o SN shock-heated P:  1.5e-04
+    data from Greve 2000 (1)
+    starburst Volume =  2.5e+09 [pc^3]
+ o SN shock-heated P:  3.7e-06
+    data from Greve 2000 (2)
+    starburst Volume =  2.0e+10 [pc^3]
+ o SN shock-heated P:  4.6e-07
+------------
++[ thermal P = n*k*T ]+
+pppp 1.38e-11 1.38e-13
+ o molecular gas thermal P:  4.14e-13
+ o ionized gas thermal P:  5.1e-11
+ o ionized gas thermal P (Inui):  4.9e-11
+------------
++[ radiation P = effic*SFR/Area*c ]+
+ o optically thick radiation P:  3.1e-35
+------------
++[ SN explosion P = 5*n_mol^(-1/4)*E_xry^(13/14)*P_rad ]+
+ o SN explosion P (cold ISM):  2.1e-30
+------------

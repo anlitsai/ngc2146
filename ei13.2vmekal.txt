@@ -1,0 +1,91 @@
+#
+------------------------------------
+test 86 - Hironori - 2 temperature model for ngc 3628 (part 2)
+------------------------------------
+------------------------------------
+NGC3628 halo norm1 kT1, vmekal+vmekal, grp, test86
+------------------------------------
+1 [as] =  37.33 [pc]
+norm =  8.52e-05
+radius =  6.72 [kpc] x 6.72 [kpc]
+theta =  3.00 [arcmin] x 3.00 [arcmin]
+Distance =  2.37e+25 [cm] 7.70 [mpc]
+redshift (z) =  0.0028
+'EI = int(n_e n_H dV)=  6.07e+61 [cm-3]'
+volume (V) =  3.73e+67 [cm3]
+kT =  0.21 [keV]
+filling factor (f) =  0.1 -- 0.01
+'plasma number density (n_e) =  1.276e-03 ( 4.036e-03 -- 1.276e-02 ) [cm-3]'
+plasma mass density (rho_e) =  2.131e-27 ( 6.739e-27 -- 2.131e-26 ) [g cm-3]
+ram pressure (p_ram) =  5.543e-12 ( 1.753e-11 -- 1.822e-11 -- 1.685e-11 -- 5.543e-11 -- 5.763e-11 -- 5.328e-11 ) [dyne cm-2]
+'plasma thermal pressure (p_ion) =  8.587e-13 ( 2.716e-12 -- 8.587e-12 ) [dyne cm-2]'
+molecular pressure (p_mol) = ( 1.380e-13 -- 1.380e-11 ) [dyne cm-2]
+'plasma mass (M) =  3.993e+07 ( 1.263e+07 -- 3.993e+06 ) [Msun]'
+'plasma thermal energy (E) =  4.8028e+55 ( 1.5188e+55 -- 4.8028e+54 ) [erg]'
+plasma total energy (E) =  1.6009e+56 ( 5.0626e+55 -- 1.6009e+55 ) [erg]
+------------------------------------
+NGC3628 halo norm2 kT2, vmekal+vmekal, grp, test86
+------------------------------------
+1 [as] =  37.33 [pc]
+norm =  4.63e-05
+radius =  6.72 [kpc] x 6.72 [kpc]
+theta =  3.00 [arcmin] x 3.00 [arcmin]
+Distance =  2.37e+25 [cm] 7.70 [mpc]
+redshift (z) =  0.0028
+'EI = int(n_e n_H dV)=  3.30e+61 [cm-3]'
+volume (V) =  3.73e+67 [cm3]
+kT =  0.6 [keV]
+filling factor (f) =  0.1 -- 0.01
+'plasma number density (n_e) =  9.408e-04 ( 2.975e-03 -- 9.408e-03 ) [cm-3]'
+plasma mass density (rho_e) =  1.571e-27 ( 4.968e-27 -- 1.571e-26 ) [g cm-3]
+ram pressure (p_ram) =  4.086e-12 ( 1.292e-11 -- 1.343e-11 -- 1.242e-11 -- 4.086e-11 -- 4.248e-11 -- 3.928e-11 ) [dyne cm-2]
+'plasma thermal pressure (p_ion) =  1.809e-12 ( 5.720e-12 -- 1.809e-11 ) [dyne cm-2]'
+molecular pressure (p_mol) = ( 1.380e-13 -- 1.380e-11 ) [dyne cm-2]
+'plasma mass (M) =  2.944e+07 ( 9.308e+06 -- 2.944e+06 ) [Msun]'
+'plasma thermal energy (E) =  1.0116e+56 ( 3.1989e+55 -- 1.0116e+55 ) [erg]'
+plasma total energy (E) =  3.3719e+56 ( 1.0663e+56 -- 3.3719e+55 ) [erg]
+------------------------------------
+NGC3628 core norm1 kT1, vmekal+vmekal, grp, test86
+------------------------------------
+1 [as] =  37.33 [pc]
+norm =  4.70e-06
+radius =  0.67 [kpc] x 0.67 [kpc]
+theta =  0.30 [arcmin] x 0.30 [arcmin]
+Distance =  2.37e+25 [cm] 7.70 [mpc]
+redshift (z) =  0.0028
+'EI = int(n_e n_H dV)=  3.35e+60 [cm-3]'
+volume (V) =  3.73e+64 [cm3]
+kT =  0.47 [keV]
+filling factor (f) =  0.1 -- 0.01
+'plasma number density (n_e) =  9.478e-03 ( 2.997e-02 -- 9.478e-02 ) [cm-3]'
+plasma mass density (rho_e) =  1.583e-26 ( 5.006e-26 -- 1.583e-25 ) [g cm-3]
+'ram pressure (p_ram) =  4.117e-11 ( 1.302e-10 -- 1.353e-10 -- 1.251e-10 -- 4.117e-10 -- 4.280e-10 -- 3.957e-10 ) [dyne cm-2]'
+'plasma thermal pressure (p_ion) =  1.427e-11 ( 4.514e-11 -- 1.427e-10 ) [dyne cm-2]'
+molecular pressure (p_mol) = ( 1.380e-13 -- 1.380e-11 ) [dyne cm-2]
+'plasma mass (M) =  2.966e+05 ( 9.379e+04 -- 2.966e+04 ) [Msun]'
+'plasma thermal energy (E) =  7.9837e+53 ( 2.5247e+53 -- 7.9837e+52 ) [erg]'
+plasma total energy (E) =  2.6612e+54 ( 8.4155e+53 -- 2.6612e+53 ) [erg]
+------------------------------------
+NGC3628 core norm2 kT2, vmekal+vmekal, grp, test86
+------------------------------------
+1 [as] =  37.33 [pc]
+norm =  2.18e-05
+radius =  0.67 [kpc] x 0.67 [kpc]
+theta =  0.30 [arcmin] x 0.30 [arcmin]
+Distance =  2.37e+25 [cm] 7.70 [mpc]
+redshift (z) =  0.0028
+'EI = int(n_e n_H dV)=  1.55e+61 [cm-3]'
+volume (V) =  3.73e+64 [cm3]
+kT =  7.29 [keV]
+filling factor (f) =  0.1 -- 0.01
+'plasma number density (n_e) =  2.041e-02 ( 6.455e-02 -- 2.041e-01 ) [cm-3]'
+plasma mass density (rho_e) =  3.409e-26 ( 1.078e-25 -- 3.409e-25 ) [g cm-3]
+'ram pressure (p_ram) =  8.867e-11 ( 2.804e-10 -- 2.915e-10 -- 2.695e-10 -- 8.867e-10 -- 9.218e-10 -- 8.523e-10 ) [dyne cm-2]'
+'plasma thermal pressure (p_ion) =  4.769e-10 ( 1.508e-09 -- 4.769e-09 ) [dyne cm-2]'
+molecular pressure (p_mol) = ( 1.380e-13 -- 1.380e-11 ) [dyne cm-2]
+'plasma mass (M) =  6.387e+05 ( 2.020e+05 -- 6.387e+04 ) [Msun]'
+'plasma thermal energy (E) =  2.6669e+55 ( 8.4336e+54 -- 2.6669e+54 ) [erg]'
+plasma total energy (E) =  8.8898e+55 ( 2.8112e+55 -- 8.8898e+54 ) [erg]
+------------------------------------
+end test 86 - Hironori - 2 temperature model for ngc 3628
+------------------------------------

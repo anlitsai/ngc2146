@@ -1,0 +1,102 @@
+======================================================
+M82 thermal Flux density @(1GHz, 3.2Mpc, Condon 1992) =  0.7 [Jy/Hz]
+M82 thermal Flux density @(100GHz, interferometer, 10Mpc) =  0.308 [Jy/Hz]
+M82 thermal Flux density @(100GHz, single dish, 10Mpc) =  0.387 [Jy/Hz]
+NGC 3628 thermal Flux density @(88GHz, 10Mpc) =  0.026 [Jy/Hz]
+NGC 2146 thermal Flux density @(88GHz, 17.2Mpc) =  0.048 [Jy/Hz]
+======
+M82 L(thermal) @(1GHz, 3.2Mpc) =  8.51e+27 [erg/s/Hz]
+M82 L(thermal) @(100GHz, interferometer, 3.2Mpc) =  3.75e+27 [erg/s/Hz]
+M82 L(thermal) @(100GHzsingle dish, 3.2Mpc) =  4.70e+27 [erg/s/Hz]
+NGC 3628 L(thermal) @(88GHz, 10Mpc) =  3.17e+27 [erg/s/Hz]
+NGC 2146 L(thermal) @(88GHz, 17Mpc) =  1.55e+28 [erg/s/Hz]
+NGC 3628 L(thrm+non) @(88GHz, 10Mpc) =  4.55e+27 [erg/s/Hz]
+NGC 2146 L(thrm+non) @(88GHz, 17Mpc) =  2.22e+28 [erg/s/Hz]
+NGC 3628 L(nonthrm) @(88GHz, 10Mpc) =  1.37840249184e+27 [erg/s/Hz]
+NGC 2146 L(nonthrm) @(88GHz, 17Mpc) =  6.71720490285e+27 [erg/s/Hz]
+-----------------------------------------------
+ dN_uv=6.3e52*(T_e/1.0e4)**(-0.45)*freq**(0.1)*(L_thrm/1.0e27) (Condon 1992) 
+-----------------------------------------------
+O7V-type star production rate =  1e+49 [photon/s]
+# of O-type star in our Galaxy ~ 6500 (Roberts 1957, PASP)
+--- M82 (condon 1992) ---
+production rate =  5.36e+53 [photon/s]
+corresponding total mass loss rate =  7.74e+00 [Msun/yr]
+# of O7V-type stars =  5.36e+04
+# of O-type stars =  1.22e+05
+corresponding total mass =  3.66e+06
+total ionized gas mass =  5.65e+07 [Msun]
+--- M82 interferometer (satoki 2005) ---
+production rate =  3.74e+53 [photon/s]
+corresponding total mass loss rate =  5.40e+00 [Msun/yr]
+# of O7V-type stars =  3.74e+04
+# of O-type stars =  8.51e+04
+corresponding total mass =  2.55e+06
+total ionized gas mass =  3.94e+07 [Msun]
+--- M82 single dish (satoki 2005) ---
+production rate =  4.70e+53 [photon/s]
+corresponding total mass loss rate =  6.79e+00 [Msun/yr]
+# of O7V-type stars =  4.70e+04
+# of O-type stars =  1.07e+05
+corresponding total mass =  3.21e+06
+total ionized gas mass =  4.95e+07 [Msun]
+--- NGC 2146 ---
+production rate =  1.53e+54 [photon/s]
+corresponding total mass loss rate =  2.21e+01 [Msun/yr]
+# of O7V-type stars =  1.53e+05
+# of O-type stars =  3.48e+05
+corresponding total mass =  1.04e+07
+total ionized gas mass =  1.61e+08 [Msun]
+--- NGC 3628 ---
+production rate =  3.13e+53 [photon/s]
+corresponding total mass loss rate =  4.51e+00 [Msun/yr]
+# of O7V-type stars =  3.13e+04
+# of O-type stars =  7.10e+04
+corresponding total mass =  2.13e+06
+total ionized gas mass =  3.29e+07 [Msun]
+-----------------------------------------------
+ SFR_Ha=1.0e-41*L_Ha (Thronson 1991) 
+-----------------------------------------------
+M82 SFR (Ha) (data) =  0.70 [M_sun/yr]
+NGC 3628 SFR (Ha) (data) =  0.23 [M_sun/yr]
+NGC 2146 SFR (Ha) (data) =  1.50 [M_sun/yr]
+-----------------------------------------------
+ SFR_IR=4.5e-44*L_IR (Kennicut 1998) 
+-----------------------------------------------
+M82 SFR (IR) (data) 10.55 [M_sun/yr]
+NGC 3628 SFR (IR) (data) 3.18 [M_sun/yr]
+NGC 2146 SFR (IR) (data) 21.04 [M_sun/yr]
+-----------------------------------------------
+ SFR_radio=1.08e-53*dN_uv (Kennicut 1998) 
+-----------------------------------------------
+M82 SFR (radio) (O, Condon 1992 data) =  5.79 [M_sun/yr] <===
+M82 SFR (radio interferometer) (O, Matsushita 2005 data) =  4.04 [M_sun/yr] <===
+M82 SFR (radio single dish) (O, Matsushita 2005 data) =  5.08 [M_sun/yr] <===
+NGC 3628 SFR (radio) (O, our data) =  3.38 [M_sun/yr] <===
+NGC 2146 SFR (radio) (O, our data) =  16.52 [M_sun/yr] <===
+-----------------------------------------------
+ SFR_radio (>5Msun)=L_T*1.0e-7*freq_GHz^0.1/5.5e20 (Condon 1992) 
+-----------------------------------------------
+M82 SFR (radio interferometer) (>5Msun OB, theory) =  1.08 [M_sun/yr]
+M82 SFR (radio interferometer) (>5Msun OB, theory) =  1.36 [M_sun/yr]
+NGC 3628 SFR (radio) (>5Msun OB, theory) =  0.90 [M_sun/yr]
+NGC 2146 SFR (radio) (>5Msun OB, theory) =  4.42 [M_sun/yr]
+-----------------------------------------------
+ r_SN_IR=2.3e-12*L_IR (van Buren & Greenhouse 1994) 
+-----------------------------------------------
+M82 SN rate (IR) (data) = 0.135 [SN/yr]
+NGC 3628 SN rate (IR) (data) = 0.041 [SN/yr]
+NGC 2146 SN rate (IR) (data) = 0.270 [SN/yr]
+-----------------------------------------------
+ r_SN_radio=0.041*SFR_radio (M>5Msun) (Condon 1992) 
+-----------------------------------------------
+M82 SN rate (radio) (Condon 1992 data) = 0.24 [SN/yr]
+M82 SN rate (radio) single dish (Matsusthia 2005 data) = 0.21 [SN/yr]
+M82 SN rate (radio) single dish (Matsusthia 2005 data, >5Msun OB) = 0.06 [SN/yr]
+M82 SN rate (radio) interferometer (Matsusthia 2005 data) = 0.17 [SN/yr]
+M82 SN rate (radio) interferometer (Matsusthia 2005 data, >5Msun OB) = 0.04 [SN/yr]
+NGC 3628 SN rate (radio) (our data) = 0.14 [SN/yr]
+NGC 3628 SN rate (radio) (our data, >5Msun OB) = 0.04 [SN/yr]
+NGC 2146 SN rate (radio) (our data) = 0.68 [SN/yr]
+NGC 2146 SN rate (radio) (our data, >5Msun OB) = 0.18 [SN/yr]
+NGC 3628 SN rate (radio) (6.7Msun OB, theory) = 0.0767006450476 [SN/yr]

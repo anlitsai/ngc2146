@@ -1,0 +1,301 @@
+============
+NGC 2146
+============
+parameters
+------------
+============
+NGC 3628
+============
+parameters
+------------
+============
+M82
+============
+parameters
+------------
+2.0e+10 [Msun] 1.5 [kpc] 2.5e-07 [CGS] ngc3628 | 2.0e10 Msun, 1.5 kpc
+213 [km/s] 10.0 [kpc] 2.9e-08 [CGS] | ngc3628, g 
+300 [km/s] 15.0 [kpc] 3.9e-08 [CGS] | ngc3628, g 
+250 [km/s] 15.0 [kpc] 2.7e-08 [CGS] | ngc2146, g 
+---------------------------
+grav. potential = -3.926729e+15 [cm^2/s^2] | z = 1pc
+   GM/(r=1pc) = -8.607231e+17 [cm^2/s^2]
+
+grav. potential = -3.924374e+15 [cm^2/s^2] | z = 10pc
+   GM/(r=10pc) = -8.607231e+16 [cm^2/s^2]
+
+grav. potential = -3.900898e+15 [cm^2/s^2] | z = 100pc
+   GM/(r=100pc) = -8.607231e+15 [cm^2/s^2]
+
+grav. potential = -3.798272e+15 [cm^2/s^2] | z = 500pc
+   GM/(r=500pc) = -1.721446e+15 [cm^2/s^2]
+
+grav. potential = -3.673908e+15 [cm^2/s^2] | z = 1kpc
+   GM/(r=1kpc)  = -8.607231e+14 [cm^2/s^2]
+
+grav. potential = -3.438145e+15 [cm^2/s^2] | z = 2kpc
+   GM/(r=2kpc)  = -4.303615e+14 [cm^2/s^2]
+
+    1/2*(v=100 km/s)^2 =  5.000000e+13 [cm^2/s^2]
+    1/2*(v=200 km/s)^2 =  2.000000e+14 [cm^2/s^2]
+    1/2*(v=300 km/s)^2 =  4.500000e+14 [cm^2/s^2]
+---------------------------
+grav. potential = -5.934075e+14 [cm^2/s^2] | v_esc = 345 [km/s] N2146
+grav. potential = -1.644927e+15 [cm^2/s^2] | v_esc = 574 [km/s] N3628
+grav. potential = -1.352496e+15 [cm^2/s^2] | v_esc = 520 [km/s] N3628
+---------------------------
+---------------------------
+free-fall timescale = 29.2 [Myr] | mol.cloud n_e=100 cm^-3
+free-fall timescale = 16.8 [Myr] | mol.cloud n_e=300 cm^-3
+free-fall timescale = 9.2 [Myr] | mol.cloud n_e=1000 cm^-3
+---------------------------
+90 [km/s] 2.9e-08 [CGS] 9.7 [Myr] | ngc3628, t2, t3
+200 [km/s] 2.7e-08 [CGS] 23.5 [Myr] | ngc2146, t2, t3, of
+50 [km/s] 2.7e-08 [CGS] 5.9 [Myr] | ngc2146, t2, t3, sb
+5.0e-01 [kpc] 9.0e+01 [km/s] 2.9e-08 [CGS] 4.4 [Myr] | ngc3628, t4
+2.0e+00 [kpc] 2.0e+02 [km/s] 2.7e-08 [CGS] 8.3 [Myr] | ngc2146, t4, of
+5.0e-01 [kpc] 5.0e+01 [km/s] 2.7e-08 [CGS] 6.3 [Myr] | ngc2146, t4, sb
+23.8 [Myr] | ngc3628, t234, of
+55.3 [Myr] | ngc2146, t234, of
+18.1 [Myr] | ngc2146, t234, sb
+---------------------------
+ngc2146 | r_now = 2.00 [kpc] | r_max 2.63 [kpc] | v_max = 357.55 [km/s]
+    t_now = 151.16 [Myr] | t_top = 153.66 [Myr] | del_t = 2.50 [Myr]
+ngc3628 | r_now = 0.37 [kpc] | r_max 0.38 [kpc] | v_max = 676.13 [km/s]
+    t_now = 21.99 [Myr] | t_top = 22.05 [Myr] | del_t = 0.06 [Myr]
+ngc3628 | r_now = 0.45 [kpc] | r_max 0.46 [kpc] | v_max = 611.92 [km/s]
+    t_now = 29.36 [Myr] | t_top = 29.44 [Myr] | del_t = 0.09 [Myr]
+---------------------------
+2.000e+14 -8.392e+14 -6.392e+14
+---------------------------
+--- N2146 ------------------------
+     E_kin_mof = 3.00e+55 [erg]
+     E_th_plm = 9.00e+54 [erg]
+     E_kin_o = 6.27e+55 [erg]
+     E_input = 7.17e+55 [erg]
+     GMMof/r = -5.68e+56 [erg]
+     v_go = 193.85 [km/s] <======
+     eff_ostar = 0.19
+     Phi1 = -8.39e+14 [cm^2/s^2]
+     1/2*v_go^2 = 1.88e+14 [cm^2/s^2]
+     Phi2 = -6.51e+14 [cm^2/s^2]
+     Phi_Kuzmin = -5.93e+14 [cm^2/s^2]
+     v_esc_Kuzmin = 344.50 [km/s] <======
+     z_now = 2.0 [kpc] = 6.17e+21 [cm] <======
+     z_max_Kuzmin = 2.93 [kpc] = 9.03e+21 [cm] <===
+     t1(z1) = 10.64 [Myr] |  t2(1pc) = 15.75 [Myr]  |  t_total = 26.39 [Myr] <===
+---------------------------
+     E_kin_mof = 3.00e+55 [erg]
+     E_th_plm = 1.30e+55 [erg]
+     E_kin_o = 7.92e+55 [erg]
+     E_input = 9.22e+55 [erg]
+     GMMof/r = -5.68e+56 [erg]
+     v_go = 212.49 [km/s] <======
+     eff_ostar = 0.24
+     Phi1 = -8.39e+14 [cm^2/s^2]
+     1/2*v_go^2 = 2.26e+14 [cm^2/s^2]
+     Phi2 = -6.13e+14 [cm^2/s^2]
+     Phi_Kuzmin = -5.93e+14 [cm^2/s^2]
+     v_esc_Kuzmin = 344.50 [km/s] <======
+     z_now = 2.0 [kpc] = 6.17e+21 [cm] <======
+     z_max_Kuzmin = 3.23 [kpc] = 9.96e+21 [cm] <===
+     t1(z1) = 13.35 [Myr] |  t2(1pc) = 18.25 [Myr]  |  t_total = 31.60 [Myr] <===
+---------------------------
+     E_kin_mof = 3.00e+55 [erg]
+     E_th_plm = 4.00e+54 [erg]
+     E_kin_o = 4.62e+55 [erg]
+     E_input = 5.02e+55 [erg]
+     GMMof/r = -5.68e+56 [erg]
+     v_go = 172.14 [km/s] <======
+     eff_ostar = 0.14
+     Phi1 = -8.39e+14 [cm^2/s^2]
+     1/2*v_go^2 = 1.48e+14 [cm^2/s^2]
+     Phi2 = -6.91e+14 [cm^2/s^2]
+     Phi_Kuzmin = -5.93e+14 [cm^2/s^2]
+     v_esc_Kuzmin = 344.50 [km/s] <======
+     z_now = 2.0 [kpc] = 6.17e+21 [cm] <======
+     z_max_Kuzmin = 2.67 [kpc] = 8.22e+21 [cm] <===
+     t1(z1) = 8.32 [Myr] |  t2(1pc) = 13.69 [Myr]  |  t_total = 22.01 [Myr] <===
+---------------------------
+---------------------------
+--- N3628 ------------------------
+     E_kin_mof = 2.30e+54 [erg]
+     E_th_plm = 1.50e+53 [erg]
+     E_kin_o = 8.55e+54 [erg]
+     E_input = 8.70e+54 [erg]
+     GMMof/r = -1.17e+56 [erg]
+     v_go = 222.16 [km/s] <======
+     eff_ostar = 0.19
+     Phi1 = -2.10e+15 [cm^2/s^2]
+     1/2*v_go^2 = 2.47e+14 [cm^2/s^2]
+     Phi2 = -1.85e+15 [cm^2/s^2]
+     Phi_Kuzmin = -1.48e+15 [cm^2/s^2]
+     v_esc_Kuzmin = 544.88 [km/s] <======
+     z_now = 0.4 [kpc] = 1.26e+21 [cm] <======
+     z_max_Kuzmin = 0.49 [kpc] = 1.52e+21 [cm] <===
+     t1(z1) = 0.76 [Myr] |  t2(1pc) = 1.51 [Myr]  |  t_total = 2.27 [Myr] <===
+---------------------------
+     E_kin_mof = 2.80e+54 [erg]
+     E_th_plm = 2.30e+53 [erg]
+     E_kin_o = 1.08e+55 [erg]
+     E_input = 1.10e+55 [erg]
+     GMMof/r = -1.17e+56 [erg]
+     v_go = 249.10 [km/s] <======
+     eff_ostar = 0.24
+     Phi1 = -2.10e+15 [cm^2/s^2]
+     1/2*v_go^2 = 3.10e+14 [cm^2/s^2]
+     Phi2 = -1.79e+15 [cm^2/s^2]
+     Phi_Kuzmin = -1.48e+15 [cm^2/s^2]
+     v_esc_Kuzmin = 544.88 [km/s] <======
+     z_now = 0.4 [kpc] = 1.26e+21 [cm] <======
+     z_max_Kuzmin = 0.52 [kpc] = 1.60e+21 [cm] <===
+     t1(z1) = 0.91 [Myr] |  t2(1pc) = 1.63 [Myr]  |  t_total = 2.55 [Myr] <===
+---------------------------
+     E_kin_mof = 1.80e+54 [erg]
+     E_th_plm = 7.00e+52 [erg]
+     E_kin_o = 6.30e+54 [erg]
+     E_input = 6.37e+54 [erg]
+     GMMof/r = -1.17e+56 [erg]
+     v_go = 191.46 [km/s] <======
+     eff_ostar = 0.14
+     Phi1 = -2.10e+15 [cm^2/s^2]
+     1/2*v_go^2 = 1.83e+14 [cm^2/s^2]
+     Phi2 = -1.92e+15 [cm^2/s^2]
+     Phi_Kuzmin = -1.48e+15 [cm^2/s^2]
+     v_esc_Kuzmin = 544.88 [km/s] <======
+     z_now = 0.4 [kpc] = 1.26e+21 [cm] <======
+     z_max_Kuzmin = 0.47 [kpc] = 1.44e+21 [cm] <===
+     t1(z1) = 0.61 [Myr] |  t2(1pc) = 1.40 [Myr]  |  t_total = 2.01 [Myr] <===
+---------------------------
+--- M82 inteferometer ------------------------
+     E_kin_mof = 3.30e+55 [erg]
+     E_th_plm = 1.39e+54 [erg]
+     E_kin_o = 2.39e+55 [erg]
+     E_input = 2.53e+55 [erg]
+     GMMof/r = -1.98e+56 [erg]
+     v_go = 149.01 [km/s] <======
+     eff_ostar = 0.19
+     Phi1 = -3.01e+14 [cm^2/s^2]
+     1/2*v_go^2 = 1.11e+14 [cm^2/s^2]
+     Phi2 = -1.90e+14 [cm^2/s^2]
+     Phi_Kuzmin = -2.13e+14 [cm^2/s^2]
+     v_esc_Kuzmin = 206.41 [km/s] <======
+     z_now = 1.0 [kpc] = 3.08e+21 [cm] <======
+     z_max_Kuzmin = 2.09 [kpc] = 6.44e+21 [cm] <===
+     t1(z1) = 18.62 [Myr] |  t2(1pc) = 22.40 [Myr]  |  t_total = 41.02 [Myr] <===
+---------------------------
+     E_kin_mof = 3.30e+55 [erg]
+     E_th_plm = 2.50e+54 [erg]
+     E_kin_o = 2.39e+55 [erg]
+     E_input = 2.64e+55 [erg]
+     GMMof/r = -1.98e+56 [erg]
+     v_go = 150.43 [km/s] <======
+     eff_ostar = 0.19
+     Phi1 = -3.01e+14 [cm^2/s^2]
+     1/2*v_go^2 = 1.13e+14 [cm^2/s^2]
+     Phi2 = -1.88e+14 [cm^2/s^2]
+     Phi_Kuzmin = -2.13e+14 [cm^2/s^2]
+     v_esc_Kuzmin = 206.41 [km/s] <======
+     z_now = 1.0 [kpc] = 3.08e+21 [cm] <======
+     z_max_Kuzmin = 2.13 [kpc] = 6.58e+21 [cm] <===
+     t1(z1) = 19.35 [Myr] |  t2(1pc) = 23.12 [Myr]  |  t_total = 42.47 [Myr] <===
+---------------------------
+     E_kin_mof = 3.30e+55 [erg]
+     E_th_plm = 8.00e+53 [erg]
+     E_kin_o = 2.39e+55 [erg]
+     E_input = 2.47e+55 [erg]
+     GMMof/r = -1.98e+56 [erg]
+     v_go = 148.26 [km/s] <======
+     eff_ostar = 0.19
+     Phi1 = -3.01e+14 [cm^2/s^2]
+     1/2*v_go^2 = 1.10e+14 [cm^2/s^2]
+     Phi2 = -1.91e+14 [cm^2/s^2]
+     Phi_Kuzmin = -2.13e+14 [cm^2/s^2]
+     v_esc_Kuzmin = 206.41 [km/s] <======
+     z_now = 1.0 [kpc] = 3.08e+21 [cm] <======
+     z_max_Kuzmin = 2.07 [kpc] = 6.37e+21 [cm] <===
+     t1(z1) = 18.24 [Myr] |  t2(1pc) = 22.04 [Myr]  |  t_total = 40.28 [Myr] <===
+---------------------------
+--- M82 single dish ------------------------
+     E_kin_mof = 3.30e+55 [erg]
+     E_th_plm = 1.39e+54 [erg]
+     E_kin_o = 2.89e+55 [erg]
+     E_input = 3.03e+55 [erg]
+     GMMof/r = -1.98e+56 [erg]
+     v_go = 155.19 [km/s] <======
+     eff_ostar = 0.19
+     Phi1 = -3.01e+14 [cm^2/s^2]
+     1/2*v_go^2 = 1.20e+14 [cm^2/s^2]
+     Phi2 = -1.81e+14 [cm^2/s^2]
+     Phi_Kuzmin = -2.13e+14 [cm^2/s^2]
+     v_esc_Kuzmin = 206.41 [km/s] <======
+     z_now = 1.0 [kpc] = 3.08e+21 [cm] <======
+     z_max_Kuzmin = 2.30 [kpc] = 7.10e+21 [cm] <===
+     t1(z1) = 22.20 [Myr] |  t2(1pc) = 25.90 [Myr]  |  t_total = 48.10 [Myr] <===
+---------------------------
+     E_kin_mof = 3.30e+55 [erg]
+     E_th_plm = 2.50e+54 [erg]
+     E_kin_o = 2.89e+55 [erg]
+     E_input = 3.14e+55 [erg]
+     GMMof/r = -1.98e+56 [erg]
+     v_go = 156.55 [km/s] <======
+     eff_ostar = 0.19
+     Phi1 = -3.01e+14 [cm^2/s^2]
+     1/2*v_go^2 = 1.23e+14 [cm^2/s^2]
+     Phi2 = -1.79e+14 [cm^2/s^2]
+     Phi_Kuzmin = -2.13e+14 [cm^2/s^2]
+     v_esc_Kuzmin = 206.41 [km/s] <======
+     z_now = 1.0 [kpc] = 3.08e+21 [cm] <======
+     z_max_Kuzmin = 2.35 [kpc] = 7.26e+21 [cm] <===
+     t1(z1) = 23.13 [Myr] |  t2(1pc) = 26.82 [Myr]  |  t_total = 49.95 [Myr] <===
+---------------------------
+     E_kin_mof = 3.30e+55 [erg]
+     E_th_plm = 8.00e+53 [erg]
+     E_kin_o = 2.89e+55 [erg]
+     E_input = 2.97e+55 [erg]
+     GMMof/r = -1.98e+56 [erg]
+     v_go = 154.47 [km/s] <======
+     eff_ostar = 0.19
+     Phi1 = -3.01e+14 [cm^2/s^2]
+     1/2*v_go^2 = 1.19e+14 [cm^2/s^2]
+     Phi2 = -1.82e+14 [cm^2/s^2]
+     Phi_Kuzmin = -2.13e+14 [cm^2/s^2]
+     v_esc_Kuzmin = 206.41 [km/s] <======
+     z_now = 1.0 [kpc] = 3.08e+21 [cm] <======
+     z_max_Kuzmin = 2.27 [kpc] = 7.01e+21 [cm] <===
+     t1(z1) = 21.73 [Myr] |  t2(1pc) = 25.44 [Myr]  |  t_total = 47.17 [Myr] <===
+---------------------------
+---------------------------
+---------------------------
+grav. potential = -3.438145e+15 [cm^2/s^2] | z = 2kpc
+    1/2*v_rot^2 = 3.125000e+14 [cm^2/s^2]
+---------------------------
+--- N2146 ------------------------
+5.19737111313e+29 2.56482562458e+29
+2.40501402547e-08 9.62005610187e-08 3.85e-01
+z = 2.0 to 4.0 [kpc] | t = 20.3 or 25.5 [Myr]
+g is not constant, this result is not correct
+---------------------------
+--- N2146 ------------------------
+t_cons = 67.627499 [Myr] | N2146
+t_cons = 82.368954 [Myr] | N2146
+t_cons = 26.559346 [Myr] | N2146
+t_cons = 56.042256 [Myr] | N2146
+--- N3628 ------------------------
+t_cons = 761.834507 [Myr] | N3628
+t_cons = 733.441803 [Myr] | N3628
+---------------------------
+--- N2146 ------------------------
+t_cons = 50.00 [Myr] | N2146
+t_cons = 30.86 [Myr] | N2146
+--- N3628 ------------------------
+t_cons = 333.33 [Myr] | N3628
+t_cons = 242.72 [Myr] | N3628
+--- N2146 ------------------------
+progres = 28.6 % N2146
+progres = 39.3 % N2146
+--- N3628 ------------------------
+progres = 1.0 % N3628
+progres = 2.0 % N3628
+progres = 1.3 % N3628
+progres = 2.7 % N3628

@@ -1,0 +1,1 @@
+/home/altsai/data/satoki_data/ngc2146/fits/aipstox96.csh

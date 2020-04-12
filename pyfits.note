@@ -1,0 +1,24 @@
+#!/usr/bin/env python
+
+# --- import constant -------------------------	#
+import math
+import pyfits
+# --- constant --------------------------------	#
+# --- parameter -------------------------------	#
+# ---------------------------------------------	#
+f=pyfits.open('/iapetus/data/satoki_data/ngc2146/small.bubble/fits/N2146U_12CO.MOM1.6112.FITS')
+f.info()
+hdr=f[0].header
+name=f[0].header['object']
+print hdr
+print hdr['object']
+print hdr.ascardlist()[:3]
+prihdr.ascardlist().keys()
+data=f[0].data
+print arr
+nx=f[0].header['NAXIS1']
+ny=f[0].header['NAXIS2']
+
+f.close()
+exit
+

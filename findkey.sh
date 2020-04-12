@@ -1,0 +1,1 @@
+/home/altsai/program/script/example/findkey.sh
